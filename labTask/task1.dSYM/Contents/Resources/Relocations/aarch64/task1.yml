@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shanto/Documents/cpp/labTask/task1'
+relocations:     []
+...
