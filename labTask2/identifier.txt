@@ -1,0 +1,5 @@
+
+int number = 10;
+float rate = 5.2;
+char letter;
+
